@@ -1,0 +1,2 @@
+﻿use the arrow keys to move around and hold the spacebar to slash skeletons
+you can only slash the skeletons while you are not moving
